@@ -10,7 +10,7 @@ region        = "us10"
 # Account setup
 subaccount_name = "DSAG Technologietage 2024 - SAP Build Apps"
 # User (please change to actually existing users)
-emergency_admins         = ["rui.nogueira@sap.com"]
+emergency_admins         = ["john.doe@test.com"]
 users_BuildAppsAdmin     = ["rui.nogueira@sap.com"]
 users_BuildAppsDeveloper = ["rui.nogueira@sap.com"]
 users_RegistryAdmin      = ["rui.nogueira@sap.com"]
