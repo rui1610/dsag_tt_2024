@@ -48,7 +48,7 @@ resource "btp_subaccount_entitlement" "sap_build_apps" {
 # Create app subscription to SAP Build Apps (depends on entitlement)
 module "sap-build-apps_standard" {
 
-  source            = "../../../modules/services_apps/sap_build_apps/standard"
+  source            = "../modules/services_apps/sap_build_apps/standard"
   subaccount_id     = btp_subaccount.project.id
   subaccount_domain = btp_subaccount.project.subdomain
   region            = var.region
