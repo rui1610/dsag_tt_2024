@@ -1,4 +1,4 @@
-name: Integration Test - SAP Build Apps
+name: SAP Build Apps - int test
 
 env:
   # Credentials used by the Terraform script
