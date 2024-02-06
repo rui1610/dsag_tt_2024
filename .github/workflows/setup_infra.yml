@@ -1,4 +1,4 @@
-name: SAP Build Apps - Setup
+name: SAP Build Apps - setup
 
 env:
   # Credentials used by the Terraform script
@@ -25,7 +25,7 @@ jobs:
           {
             'name': 'SAP Build Apps',
             'folder': 'sap_build_apps', 
-            'var_file' : '../config/uc-services_apps-sap_build_apps.tfvars', 
+            'var_file' : '../config/uc-services_apps-sap_build_apps_setup.tfvars', 
             'use_custom_idp' : true 
           }
         ]
