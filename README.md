@@ -7,7 +7,7 @@ This repository provides the code behind the **Terraform demo** for the session 
 The Terraform scripts are split into two folders:
 
 - [sap_build_apps](sap_build_apps): this folder contains the main Terraform script to setup the SAP Build Apps used in the demo. The script is using some additional resources, that are in the [modules](modules) folder.
-- [modules](modules): this folder contains modules used by the [sap_build_apps](sap_build_apps script).
+- [modules](modules): this folder contains modules used by the [sap_build_apps script](sap_build_apps).
 
 ## Start today
 
