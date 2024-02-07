@@ -11,6 +11,6 @@ The Terraform scripts are split into two folders:
 
 ## Start today
 
-| Get started with a tutorial |  Try out sample use cases| Read the documentation|
+| [Get started with a tutorial](https://developers.sap.com/tutorials/btp-terraform-get-started.html) |  [Try out sample use cases](https://github.com/SAP-samples/btp-terraform-samples) | [Read the documentation](https://registry.terraform.io/providers/SAP/btp/latest/docs) |
 | --------------------------- | ------------------------ | --------------------- |
 | ![Tutorial at developers.sap.com](pictures/qrcode1.svg) | ![Try out sample use cases](pictures/qrcode2.svg) | ![TRead the documentation](pictures/qrcode3.svg) |
