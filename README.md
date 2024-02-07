@@ -12,6 +12,5 @@ The Terraform scripts are split into two folders:
 ## Start today
 
 | Get started with a tutorial |  Try out sample use cases| Read the documentation|
-| --- | --- | --- |
-
+| --------------------------- | ------------------------ | --------------------- |
 | ![Tutorial at developers.sap.com](pictures/qrcode1.svg) | ![Try out sample use cases](pictures/qrcode2.svg) | ![TRead the documentation](pictures/qrcode3.svg) |
